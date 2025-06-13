@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1WG-rSzWt3r3rGOp2DX3bDQqyH2rR6dYt/view?usp=shari
 
 <h3 align="left">Языки и инструменты:</h3>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-<div align="left">
+<div align="right">
   
 </div>
 
